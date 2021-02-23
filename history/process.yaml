@@ -1,0 +1,6 @@
+data_location: s3://ooi-data/CE01ISSM-MFD35-02-PRESFA000-telemetered-presf_abc_dcl_wave_burst
+data_stream: CE01ISSM-MFD35-02-PRESFA000-telemetered-presf_abc_dcl_wave_burst
+end_date: '2014-05-10T00:59:08.819Z'
+last_updated: '2021-02-23T01:14:56.642736Z'
+start_date: '2014-04-17T20:45:00.000Z'
+status: pending
